@@ -1,0 +1,19 @@
+body{
+  font-family: arial;
+  background-image: url('http://pngimg.com/uploads/world_map/world_map_PNG34.png');
+  background-size: 85%;
+}
+
+img {
+  width: 420px;
+  height: 250px;
+  position: relative;
+  left: 35%;
+}
+
+
+h1, .dropdown, p, h2, img{
+  position: relative;
+  text-align: center;
+  font-weight: bold;
+}
